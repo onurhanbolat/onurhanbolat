@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Onurhan Bolat</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
-<img align="right" alt="Coding" widht="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" widht="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onurhanbolat&label=Profile%20views&color=0e75b6&style=flat" alt="onurhanbolat" /> </p>
 
