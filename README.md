@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/tremoloyayi" target="blank"><img src="https://img.shields.io/twitter/follow/tremoloyayi?logo=twitter&style=for-the-badge" alt="tremoloyayi" /></a> </p>
 
-- 🔭 I’m currently working on **Thunder**
+- 🔭 I’m currently working on **SatisOtomasyon**
 
-- 🌱 I’m currently learning **C#,Kotlin**
+- 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **Android & .NET Framework**
 
