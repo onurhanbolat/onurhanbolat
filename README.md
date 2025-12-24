@@ -1,34 +1,85 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/200_600px.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋 I'm Onurhan Bolat</h1>
+<h3 align="center">
+.NET Developer • Clean Architecture Enthusiast • SaaS Builder
+</h3>
 
-<h1 align="center">Hi 👋, I'm Onurhan Bolat</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
-<img align="right" alt="Coding" widht="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onurhanbolat&label=Profile%20views&color=0e75b6&style=flat" alt="onurhanbolat" /> </p>
-
-<p align="left"> <a href="https://twitter.com/tremoloyayi" target="blank"><img src="https://img.shields.io/twitter/follow/tremoloyayi?logo=twitter&style=for-the-badge" alt="tremoloyayi" /></a> </p>
-
-- 🔭 I’m currently working on **SatisOtomasyon**
-
-- 🌱 I’m currently learning **C#**
-
-- 💬 Ask me about **Android & .NET Framework**
-
-- 📫 How to reach me **onurhanbolat@gmail.com**
-
-- ⚡ Fun fact **I'm looking for fun**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tremoloyayi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tremoloyayi" height="30" width="40" /></a>
-<a href="https://instagram.com/onurhanbolatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onurhanbolatt" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:onurhanbolat@gmail.com">📫 Mail</a> •
+  <a href="https://www.linkedin.com/in/onurhanbolat/">LinkedIn</a> •
+  <a href="https://github.com/onurhanbolat">GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onurhanbolat&show_icons=true&locale=en&layout=compact" alt="onurhanbolat" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onurhanbolat&show_icons=true&locale=en" alt="onurhanbolat" /></p>
+- 🎓 **Computer Engineering Graduate** (Süleyman Demirel University)
+- 💼 **.NET Developer Intern @ Doğuş Teknoloji**  
+- 🧠 Focused on **Clean Architecture, Multi-Tenant SaaS & Enterprise Patterns**
+- 🏗️ Building real-world products, not just demos
+- 🎸 Guitarist & songwriter (code + art balance)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onurhanbolat&" alt="onurhanbolat" /></p>
+---
+
+### 🧩 Current Projects
+
+- **FrameCraft**  
+  Multi-tenant SaaS for frame & portfolio sales  
+  `ASP.NET Core • EF Core • CQRS • Serilog • Docker • SQL Server`
+
+- **BlogSite**  
+  Clean Architecture based ASP.NET MVC application  
+  `Service Layer • ViewModels • Role-based Authorization`
+
+- **AI Side Projects**
+  - Trendyol Review Analyzer (Python + AI)
+  - Experimental LLM concepts & RAG pipelines
+
+---
+
+### 🛠️ Tech Stack
+
+**Backend**
+- C#, .NET 8/9/10
+- ASP.NET Core (MVC, Web API)
+- Entity Framework Core
+- Clean Architecture, CQRS, MediatR
+
+**Database**
+- SQL Server, MSSQL
+- Schema & Multi-tenant designs
+
+**DevOps / Tools**
+- Docker, Docker Compose
+- Git & GitHub Flow
+- Serilog + Seq
+- Azure DevOps / CI-CD (learning)
+
+**Frontend (when needed)**
+- Razor Pages, MVC Views
+- Basic React / Next.js knowledge
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onurhanbolat&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurhanbolat&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurhanbolat&layout=compact&theme=transparent" />
+</p>
+
+---
+
+### ✨ Philosophy
+
+> *“I don’t just write code.  
+> I design systems that can grow.”*
+
+---
