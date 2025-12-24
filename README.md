@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/onurhanbolat/">• LinkedIn</a> •
+  • <a href="https://www.linkedin.com/in/onurhanbolat/">LinkedIn</a> •
 </p>
 
 ---
