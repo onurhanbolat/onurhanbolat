@@ -4,7 +4,6 @@
 </h3>
 
 <p align="center">
-  <a href="mailto:onurhanbolat@gmail.com">📫 Mail</a> •
   <a href="https://www.linkedin.com/in/onurhanbolat/">LinkedIn</a> •
 </p>
 
