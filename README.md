@@ -16,7 +16,7 @@
 - 💼 **.NET Developer Intern @ Doğuş Teknoloji**  
 - 🧠 Focused on **Clean Architecture, Multi-Tenant SaaS & Enterprise Patterns**
 - 🏗️ Building real-world products, not just demos
-- 🎸 Guitarist & songwriter (code + art balance)
+- 🎸 Guitarist (code + art balance)
 
 ---
 
