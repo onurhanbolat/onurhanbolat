@@ -6,7 +6,6 @@
 <p align="center">
   <a href="mailto:onurhanbolat@gmail.com">📫 Mail</a> •
   <a href="https://www.linkedin.com/in/onurhanbolat/">LinkedIn</a> •
-  <a href="https://github.com/onurhanbolat">GitHub</a>
 </p>
 
 ---
@@ -58,28 +57,5 @@
 **Frontend (when needed)**
 - Razor Pages, MVC Views
 - Basic React / Next.js knowledge
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onurhanbolat&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurhanbolat&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurhanbolat&layout=compact&theme=transparent" />
-</p>
-
----
-
-### ✨ Philosophy
-
-> *“I don’t just write code.  
-> I design systems that can grow.”*
 
 ---
