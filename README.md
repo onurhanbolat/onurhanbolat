@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋 I'm Onurhan Bolat</h1>
 <h3 align="center">
-.NET Developer • Clean Architecture Enthusiast • SaaS Builder
+• .NET Developer • 
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/onurhanbolat/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/onurhanbolat/">• LinkedIn</a> •
 </p>
 
 ---
